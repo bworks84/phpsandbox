@@ -50,5 +50,4 @@ addTen($myNum);
 echo "Value: $myNum<br>";
 echo "value changes because the value is passed into the argument param by reference"
 
-
   ?>
